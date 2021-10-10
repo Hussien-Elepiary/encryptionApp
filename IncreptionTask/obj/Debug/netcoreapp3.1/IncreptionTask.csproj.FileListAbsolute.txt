@@ -1,0 +1,11 @@
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\bin\Debug\netcoreapp3.1\IncreptionTask.exe
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\obj\Debug\netcoreapp3.1\IncreptionTask.AssemblyInfoInputs.cache
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\obj\Debug\netcoreapp3.1\IncreptionTask.AssemblyInfo.cs
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\bin\Debug\netcoreapp3.1\IncreptionTask.deps.json
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\bin\Debug\netcoreapp3.1\IncreptionTask.runtimeconfig.json
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\bin\Debug\netcoreapp3.1\IncreptionTask.runtimeconfig.dev.json
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\bin\Debug\netcoreapp3.1\IncreptionTask.dll
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\bin\Debug\netcoreapp3.1\IncreptionTask.pdb
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\obj\Debug\netcoreapp3.1\IncreptionTask.dll
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\obj\Debug\netcoreapp3.1\IncreptionTask.pdb
+F:\Projects\CSharpe\C# Course\increptionTask\IncreptionTask\IncreptionTask\obj\Debug\netcoreapp3.1\IncreptionTask.csprojAssemblyReference.cache
